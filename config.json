@@ -6,13 +6,9 @@
   "sort": "created",
   "order": "asc",
   "includeFork": false,
-  "theme": "dark.css",
+  "theme": "light.css",
   "types": [
-   "owner"
-  ],
-  "twitter": "@vitalii_003",
-  "linkedin": null,
-  "medium": "pokrivchakzvitalja",
-  "dribbble": null
+   "all"
+  ]
  }
 ]
